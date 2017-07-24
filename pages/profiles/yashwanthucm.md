@@ -1,7 +1,7 @@
-Name :-yashwanth reddy.
-Location :-Boston.
-Time Zone:-EST.
-OS:-Windows 10.
+####Name :-yashwanth reddy
+####Location :-Boston
+####Time Zone:-EST
+####OS:-Windows 10
 About Myself:-I am always interested in learning new things on my own and being updated with new technologies
 and work with never give up attitude on top of it help others in need.
 
