@@ -3,8 +3,8 @@
 #### Time Zone:-EST
 #### OS:-Windows 10
 #### About Myself:-
-I am always interested in learning new things on my own and being updated with new technologies
-and work with never give up attitude on top of it help others in need.
+*I am always interested in learning new things on my own and being updated with new technologies
+and work with never give up attitude on top of it help others in need.*
 ------------------------------------
 Below given data is just an attempt to use markdown and nothing else
 
