@@ -2,9 +2,8 @@
 #### Location :-Boston
 #### Time Zone:-EST
 #### OS:-Windows 10
-#### About Myself:-
-*I am always interested in learning new things on my own and being updated with new technologies
-and work with never give up attitude on top of it help others in need.*
+#### About Myself:- ####
+*I am a person who is positive about every aspect of life and like to help people in need*
 ------------------------------------
 Below given data is just an attempt to use markdown and nothing else
 
